@@ -1,8 +1,8 @@
-# Hot Stove Privacy Policy
+# Offseason Tracker Privacy Policy
 
 Last updated: November 2026
 
-Hot Stove does not collect, store or share any personal information.
+Offseason Tracker does not collect, store or share any personal information.
 
 - **No accounts.** You never sign in or give your name or email address.
 - **No tracking or analytics.** The app has no advertising, analytics or tracking SDKs.

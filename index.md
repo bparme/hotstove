@@ -1,6 +1,6 @@
-# Hot Stove
+# Offseason Tracker
 
-Hot Stove is an independent iPhone app for following your baseball team's offseason: the projected lineup and record, every roster move since the season ended, available free agents, and which teams are buying or selling at each position.
+Offseason Tracker is an independent iPhone app for following your baseball team's offseason: the projected lineup and record, every roster move since the season ended, available free agents, and which teams are buying or selling at each position.
 
 ## Support
 
@@ -14,6 +14,6 @@ Questions, bug reports or feature requests: email **bparme@gmail.com**. I usuall
 
 **Where do rumors come from?** Headlines from the MLB Trade Rumors RSS feed, linked back to the original articles.
 
-Hot Stove isn't affiliated with or endorsed by Major League Baseball, MLB Advanced Media, any MLB club or MLB Trade Rumors.
+Offseason Tracker isn't affiliated with or endorsed by Major League Baseball, MLB Advanced Media, any MLB club or MLB Trade Rumors.
 
 [Privacy Policy](privacy.html)
